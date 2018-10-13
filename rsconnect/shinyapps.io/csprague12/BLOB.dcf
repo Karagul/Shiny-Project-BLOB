@@ -1,0 +1,12 @@
+name: BLOB
+title: BLOB
+username:
+account: csprague12
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 511720
+bundleId: 1640180
+url: https://csprague12.shinyapps.io/BLOB/
+when: 1539384401.42255
+asMultiple: FALSE
+asStatic: FALSE
