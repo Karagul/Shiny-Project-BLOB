@@ -81,7 +81,7 @@ function(input, output, session) {
   })
  
   output$table <- DT::renderDataTable({
-    DT::datatable(censusdata[,-1])
+    DT::datatable(censusdata)
   })
 
 ## CALCULATOR COST OF LIVING ####
